@@ -1,0 +1,1 @@
+img{display:inline-block}:is(html[class~=light] body){background-color:rgba(246,246,246,var(--tw-bg-opacity))!important}
